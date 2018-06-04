@@ -1,0 +1,23 @@
+{
+  "name": "io.server360.node.ldapjs",
+  "version": "1.0.0",
+  "description": "LDAP Server and Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoschu/io.server360.node.ldapjs.git"
+  },
+  "author": "Tom S. <thoschu@gmail.com> (https://www.thomas-schulte.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoschu/io.server360.node.ldapjs/issues"
+  },
+  "homepage": "https://github.com/thoschu/io.server360.node.ldapjs#readme",
+  "dependencies": {
+    "ldapjs": "^1.0.2"
+  }
+}
